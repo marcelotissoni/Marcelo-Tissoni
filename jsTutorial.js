@@ -31,6 +31,7 @@ Tipo de Atributo de Clase:
 Add 
 Remove
 Contains (este esta bueno para chequear si tiene alguna clase)
+Toggle (si tiene lo saca, si no lo tiene lo pone)
 
 Manipulacion de Estilo de Clase:
 clase.style.atributo = 'cambio;'
